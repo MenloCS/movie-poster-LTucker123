@@ -132,13 +132,13 @@ Export your best AI generation and open it in Photoshop. You must make at least 
 *(Commit message: "Completed reflection")*
 
 **How did your vision evolve?**  
-Compare your original creative brief to your final poster. What changed? What stayed the same?  
+Compare your original creative brief to your final poster. What changed? What stayed the same?  Most of it changed, person still there
 
 
-**What decision are you most proud of that the AI didn't make for you?**  
+**What decision are you most proud of that the AI didn't make for you?**  Mockingbird and person
 
 
-**What would you do differently next time?**  
+**What would you do differently next time?**  Changed background more
 
 
 ---
