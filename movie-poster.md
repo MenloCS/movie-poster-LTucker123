@@ -68,18 +68,18 @@ What do you definitely NOT want? (This helps you evaluate AI outputs critically.
 Open Adobe Firefly. Generate images based on your creative brief, but remember: you're exploring possibilities, not looking for a final answer.
 
 **Attempt 1:**  
-- **My prompt:**  
+- **My prompt:**  Make a movie poster for the Hunger Games movie evoking feelings of courage and fear. Add a mockingbird and avoid adding faces. Make the dominant color black and the accent color red with an overall muted mood. Make it a Medium shot (full figure)  with the focal point centered on a person(Katniss)
 
-- **What worked:**  
-- **What didn't work:**  
-- **What I'll change for next attempt:**  
+- **What worked:**  Had Katniss in the middle and had a mockingbird
+- **What didn't work:**  Mockingbird was on top of Katniss, and the background was weird, showing the face
+- **What I'll change for next attempt:**  Be more specific about the mockingbird and background, and repeat not showing the face
 
 **Attempt 2:**  
-- **My prompt:**  
+- **My prompt:**  Make a movie poster for the Hunger Games movie evoking feelings of courage and fear. Add a mockingbird in the background and avoid adding faces. Make the dominant color black and the accent color red with an overall muted mood. Make it a Medium shot (full figure)  with the focal point centered on a person (Katniss). Make the background the arena.
 
-- **What worked:**  
-- **What didn't work:**  
-- **What I'll change for next attempt:**  
+- **What worked:**  Mockingbird now in the background
+- **What didn't work:**  Mokcingbird still centered in the background, still sees face, background still weird
+- **What I'll change for next attempt:**  Be more specific and put mockingbird on the side, restate, don't add faces, say the background should be the cornocopia
 
 ---
 
