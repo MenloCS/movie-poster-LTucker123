@@ -79,7 +79,7 @@ Open Adobe Firefly. Generate images based on your creative brief, but remember: 
 
 - **What worked:**  Mockingbird now in the background
 - **What didn't work:**  Mokcingbird still centered in the background, still sees face, background still weird
-- **What I'll change for next attempt:**  Be more specific and put mockingbird on the side, restate, don't add faces, say the background should be the cornocopia
+- **What I'll change for next attempt:**  Be more specific and put mockingbird on the side, restate, don't add faces, say the background should be the cornucopia
 
 ---
 
@@ -89,19 +89,19 @@ Open Adobe Firefly. Generate images based on your creative brief, but remember: 
 Keep refining. Try at least two more meaningfully different directions.
 
 **Attempt 3:**  
-- **My prompt:**  
+- **My prompt:**  Make a movie poster for the Hunger Games movie evoking feelings of courage and fear. Add a mockingbird in the background on the side, and don't add faces (make the person facing the back or side). Make the dominant color black and the accent color red with an overall muted mood. Make it a Medium shot (full figure)  with the focal point centered on a person (Katniss). Make the background the arena with the cornucopia
 
-- **What worked:**  
-- **What didn't work:**  
-- **What I'll change for next attempt:**  
+- **What worked:**  Mockingbird on the side
+- **What didn't work:**  Weird symbol still, still see the face, cornucopia isn't an actual cornucopia
+- **What I'll change for next attempt:**  Say it's the gold symbol, try again to say person standing backwards, clarify about cornucopia.
 
 **Attempt 4:**  
-- **My prompt:**  
+- **My prompt:**  Make a movie poster for the Hunger Games movie evoking feelings of courage and fear. Add a mockingbird symbol from the movie on her clothes, and have Katniss facing backwards so we only see her back and not her face. Use an overall muted mood with darker colors. Make it a Medium shot (full figure)  with the focal point centered on a person (Katniss). Make the background the arena from the movie
 
-- **What worked:**  
-- **What didn't work:**  
+- **What worked:**  Everything looked a lot better, facing back, mockbird on clothes, coloring looks better, background looks better
+- **What didn't work:**  Background still a little strange, but much better
 
-**Final AI Image Selected:** (Which attempt? Why?)  
+**Final AI Image Selected:** (Which attempt? Why?)  4 becacuse it followed the intructions the best
 
 ---
 
