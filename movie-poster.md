@@ -101,7 +101,7 @@ Keep refining. Try at least two more meaningfully different directions.
 - **What worked:**  Everything looked a lot better, facing back, mockbird on clothes, coloring looks better, background looks better
 - **What didn't work:**  Background still a little strange, but much better
 
-**Final AI Image Selected:** (Which attempt? Why?)  4 becacuse it followed the intructions the best
+**Final AI Image Selected:** (Which attempt? Why?)  4 because it followed the instructions the best
 
 ---
 
@@ -119,8 +119,8 @@ Export your best AI generation and open it in Photoshop. You must make at least 
 - Remove unwanted elements  
 
 **Your Modifications:**  
-1.  
-2.  
+1. Adjusted brightness
+2.  Cropped
 3. (optional)  
 
 **Save your final poster as:** `final-poster.jpg` or `final-poster.png`  
